@@ -20,7 +20,7 @@
 ### Títular
 ![](https://github.com/DanielMaciel89/-Criando-Um-Organizador-de-Declara-o-de-Imposto-de-Renda/blob/main/images/CAP2.png)
 ### Informes
-![](https://github.com/DanielMaciel89/-Criando-Um-Organizador-de-Declara-o-de-Imposto-de-Renda/blob/main/images/CAP2.png)
+![](https://github.com/DanielMaciel89/-Criando-Um-Organizador-de-Declara-o-de-Imposto-de-Renda/blob/main/images/CAP3.png)
 ### Notas
 ![](https://github.com/DanielMaciel89/-Criando-Um-Organizador-de-Declara-o-de-Imposto-de-Renda/blob/main/images/CAP4.png)
 
